@@ -1,0 +1,7 @@
+name: XGameMode
+main: xrde4\XGameMode\XGameMode
+version: 1.0
+api: 5.0.0
+permissions:
+  xgamemode.perms:
+    default: OP
