@@ -33,7 +33,7 @@ I'm aware that similar plugins existed in earlier versions, but the removal of I
 
 | Downloads                                         | API       | Downloads                                                                 |
 |---------------------------------------------------|-----------|---------------------------------------------------------------------------|
-| latest version (0.0.1)                       | 5.x       | [GitHub Release](Very soon...)                |
+| latest version (0.0.1)                       | 5.x       | [GitHub Release](https://github.com/xrde4/XGameMode/releases/download/0.1/XGameMode.phar)                |
 <br>
 
 ## 📁 Supported software:
@@ -41,7 +41,7 @@ I'm aware that similar plugins existed in earlier versions, but the removal of I
 
 ## 🔧 How to install XGameMode?
 
-1) [Download](Very soon...) latest stable released version from poggit.
+1) [Download](https://github.com/xrde4/XGameMode/releases/download/0.1/XGameMode.phar) latest stable released version from poggit.
 2) Move dowloaded file to your server **/plugins/** folder
 3) Restart the server
 
