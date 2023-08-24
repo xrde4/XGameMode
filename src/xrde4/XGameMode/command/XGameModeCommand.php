@@ -22,7 +22,7 @@ class XGameModeCommand extends Command implements PluginOwned{
 		__construct as setOwningPlugin;
 	}
 	
-	public function __construct(XGameMode $plugin){
+	public function __construct(private XGameMode $plugin){
         $this->setOwningPlugin($plugin);
 		parent::__construct("gm", $plugin->LanguageMessage("description"), "/gm");
 	 	$this->setPermission('xgamemode.perms');
