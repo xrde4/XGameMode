@@ -42,6 +42,7 @@ class XGameMode extends PluginBase implements Listener
 {
 	
 	private const TAG_NAME = "contents";
+	public Config $users;
 		
     public function onEnable(): void {
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
